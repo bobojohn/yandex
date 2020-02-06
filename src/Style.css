@@ -1,0 +1,36 @@
+.product{
+    display: inline-block;
+    margin: 40px;
+    width: 200px;
+}
+.product:hover{
+    transform: scale(1.05,1.05);
+}
+
+img{
+    width: auto;
+    height: auto;
+}
+h3, 
+.name, 
+img {
+    padding: 3px;
+    color: rgb(2, 2, 2);
+}
+
+.name{
+    color: #0044BB;
+}
+
+p, 
+:hover{
+    cursor: pointer;
+    color: #CE242B;
+ }
+
+
+
+
+ /* img{
+    width: 200px;
+  } */
